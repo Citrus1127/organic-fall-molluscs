@@ -22,15 +22,6 @@
 **Substrate:** Sunken wood  
 **Substrate organism:**  
 
-## Material availability
-
-Available material:
-
-- Voucher specimens:
-- Tissue:
-- DNA:
-- RNA:
-
 ## Molecular resources
 
 - COI:
