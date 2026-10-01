@@ -12,8 +12,6 @@
 **Species / taxon:** *Coccopigya punctoradiata*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
 **Region (this dataset):** East China Sea  
