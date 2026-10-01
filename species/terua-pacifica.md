@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/terua-pacifica/main.png -->
+![Terua pacifica](../images/Terua-pacifica/main.tif)
 
 ## Taxonomy
 
