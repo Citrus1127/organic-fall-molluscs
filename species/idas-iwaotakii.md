@@ -1,19 +1,16 @@
-# *Idas pacificus*
+# *Idas iwaotakii*
 
 [Back to the taxon index](index.md)
 
-![Idas pacificus](../images/idas-pacificus/main.png)
+<!-- Representative image: ../images/idas-iwaotakii/main.png -->
 
 ## Taxonomy
 
 **Class:** Bivalvia  
 **Family:** Modiolidae  
 **Genus:** *Idas*  
-**Species / taxon:** *Idas pacificus*  
-**WoRMS AphiaID:** 1807815  
-
-**Taxonomic reference:** [WoRMS: Idas pacificus](https://marinespecies.org/aphia.php?p=taxdetails&id=1807815)  
-**Family reference:** [WoRMS: Modiolidae](https://marinespecies.org/aphia.php?p=taxdetails&id=866318)  
+**Species / taxon:** *Idas iwaotakii*  
+**WoRMS AphiaID:**   
 
 **Classification source:** Supplementary Table 2
 
@@ -35,20 +32,10 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 | Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 | 2025PHI0409A | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
-| 4 | 2025PHI0409B | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
-| 5 | 2025PHI0515 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
-| 7 | 2025PHI0514 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
-| 8 | 2025PHI0501 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
-| 9 | 2025PHI0427 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
 | 10 | 2025PHI0506 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
-| 11 | 2025PHI0518 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
 | 12 | 20242085 | East China Sea | Wood | 28°50′N | 127°20′E | 480–560 |
 | 15 | 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
 | 16 | 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 17 | 2024195625031 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 20 | 2025ES520 | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
-| 21 | 2024DHSW01 | East China Sea | Wood | 27°40′N | 121°20′E | 200 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
 | 27 | 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
 
 ## Material availability
@@ -60,7 +47,7 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Molecular resources
 
-- COI: [OR497041](https://www.ncbi.nlm.nih.gov/nuccore/OR497041)
+- COI: [PP936108](https://www.ncbi.nlm.nih.gov/nuccore/PP936108)
 - 16S:
 - 18S:
 - 28S:
@@ -70,8 +57,12 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Images
 
-**Representative image:** `images/idas-pacificus/main.png`  
+**Representative image:**   
 **Image type:**   
+
+<!-- After uploading an image, uncomment this line: -->
+<!-- ![Idas iwaotakii](../images/idas-iwaotakii/main.png) -->
+
 **Image credit:**   
 
 ## Publications
