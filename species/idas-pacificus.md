@@ -34,6 +34,6 @@
 
 ## Publications
 
-Relevant publications:
+Relevant publications: Wu Q, Lin Y-T, Qiu J-W, Xu MY, Xing BP (2025) Two new species of Idas (Bivalvia, Mytilidae) from sunken wood in the East China Sea: description, phylogenetic position and symbionts. Zoosystematics and Evolution 101(2): 761-778. https://doi.org/10.3897/zse.101.142007
 
 ## Notes
