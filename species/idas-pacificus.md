@@ -45,10 +45,4 @@ Available material:
 
 Relevant publications:
 
-## Availability and collaboration
-
-Additional material may be available upon reasonable request.
-
-Researchers interested in collaborative studies using these materials are welcome to contact the database curator.
-
 ## Notes
