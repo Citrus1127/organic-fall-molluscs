@@ -12,15 +12,13 @@
 **Species / taxon:** *Glabracollonia lunella*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** South China Sea; East China Sea  
+**Recorded region:** South China Sea; East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 100–560 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,16 +27,15 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 | 2025PHI0511 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
-| 14 | 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
-| 15 | 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
-| 16 | 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 18 | 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 26 | 202521640409 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
-| 29 | 20252164BIG | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025PHI0511 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
+| 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
+| 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 202521640409 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| 20252164BIG | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
 
 ## Material availability
 
@@ -53,6 +50,8 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 - 16S:
 - 18S:
 - 28S:
+- H3:
+- HSP70:
 - Mitogenome:
 - Genome:
 - Transcriptome:
@@ -73,12 +72,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- Sample ID `202521640329` occurs twice in Table 1 (entries 14 and 18) and in Supplementary Table 1. The original entries are retained by their table number; the duplicate ID does not establish independent samples.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

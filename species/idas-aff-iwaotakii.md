@@ -12,15 +12,13 @@
 **Species / taxon:** *Idas* aff. *iwaotakii*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 100–460 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,13 +27,13 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 15 | 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
-| 16 | 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 17 | 2024195625031 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 27 | 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
+| 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2024195625031 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
 
 ## Material availability
 
@@ -48,9 +46,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PP936130](https://www.ncbi.nlm.nih.gov/nuccore/PP936130)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115906](https://www.ncbi.nlm.nih.gov/nuccore/PX115906); [PX115907](https://www.ncbi.nlm.nih.gov/nuccore/PX115907)
+- 28S: [PX121789](https://www.ncbi.nlm.nih.gov/nuccore/PX121789); [PX121790](https://www.ncbi.nlm.nih.gov/nuccore/PX121790)
+- H3: [PX132880](https://www.ncbi.nlm.nih.gov/nuccore/PX132880); [PX132890](https://www.ncbi.nlm.nih.gov/nuccore/PX132890)
+- HSP70: [PX124070](https://www.ncbi.nlm.nih.gov/nuccore/PX124070); [PX124076](https://www.ncbi.nlm.nih.gov/nuccore/PX124076)
+- Mitogenome: [PV718154](https://www.ncbi.nlm.nih.gov/nuccore/PV718154); [PV718155](https://www.ncbi.nlm.nih.gov/nuccore/PV718155)
 - Genome:
 - Transcriptome:
 
@@ -70,12 +70,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

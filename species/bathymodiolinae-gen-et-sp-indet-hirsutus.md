@@ -12,15 +12,13 @@
 **Species / taxon:** Bathymodiolinae gen. et sp. indet. "hirsutus"  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** South China Sea  
+**Recorded region:** South China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 300–500 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,9 +27,9 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 | 2025PHI0511 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025PHI0511 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
 
 ## Material availability
 
@@ -44,9 +42,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PZ326610](https://www.ncbi.nlm.nih.gov/nuccore/PZ326610)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115908](https://www.ncbi.nlm.nih.gov/nuccore/PX115908)
+- 28S: [PX121791](https://www.ncbi.nlm.nih.gov/nuccore/PX121791)
+- H3: [PX132893](https://www.ncbi.nlm.nih.gov/nuccore/PX132893)
+- HSP70: [PX124072](https://www.ncbi.nlm.nih.gov/nuccore/PX124072)
+- Mitogenome: [PV926304](https://www.ncbi.nlm.nih.gov/nuccore/PV926304)
 - Genome:
 - Transcriptome:
 
@@ -66,12 +66,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

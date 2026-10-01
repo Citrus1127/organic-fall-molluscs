@@ -12,15 +12,13 @@
 **Species / taxon:** *Idas* sp. SAL1  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** South China Sea  
+**Recorded region:** South China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 300–500 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,9 +27,9 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 | 2025PHI0409B | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025PHI0409B | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
 
 ## Material availability
 
@@ -44,9 +42,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PZ326607](https://www.ncbi.nlm.nih.gov/nuccore/PZ326607)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115903](https://www.ncbi.nlm.nih.gov/nuccore/PX115903)
+- 28S: [PX121792](https://www.ncbi.nlm.nih.gov/nuccore/PX121792)
+- H3: [PX132884](https://www.ncbi.nlm.nih.gov/nuccore/PX132884)
+- HSP70: [PX124065](https://www.ncbi.nlm.nih.gov/nuccore/PX124065)
+- Mitogenome: [PV926303](https://www.ncbi.nlm.nih.gov/nuccore/PV926303)
 - Genome:
 - Transcriptome:
 
@@ -66,12 +66,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

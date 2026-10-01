@@ -12,15 +12,13 @@
 **Species / taxon:** *Glabracollonia laevigata*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 200–560 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,10 +27,10 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 19 | 20250402X | East China Sea | Wood | 26°20′N | 123°50′E | 200 |
-| 26 | 202521640409 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 20250402X | East China Sea | Wood | 26°20′N | 123°50′E | 200 |
+| 202521640409 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
 
 ## Material availability
 
@@ -47,6 +45,8 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 - 16S:
 - 18S:
 - 28S:
+- H3:
+- HSP70:
 - Mitogenome:
 - Genome:
 - Transcriptome:
@@ -68,11 +68,5 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 ## Notes
 
 **Notes:**   
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
 
 <!-- Empty fields are retained for later editing. -->

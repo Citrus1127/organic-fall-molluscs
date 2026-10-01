@@ -12,15 +12,13 @@
 **Species / taxon:** "*Lignomodiolus*" sp. R  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 400–560 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,10 +27,10 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 18 | 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
-| 29 | 20252164BIG | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
+| 20252164BIG | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |
 
 ## Material availability
 
@@ -45,9 +43,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PZ326609](https://www.ncbi.nlm.nih.gov/nuccore/PZ326609)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115897](https://www.ncbi.nlm.nih.gov/nuccore/PX115897)
+- 28S: [PX121786](https://www.ncbi.nlm.nih.gov/nuccore/PX121786)
+- H3: [PX132885](https://www.ncbi.nlm.nih.gov/nuccore/PX132885)
+- HSP70: [PX124066](https://www.ncbi.nlm.nih.gov/nuccore/PX124066)
+- Mitogenome: [PV745399](https://www.ncbi.nlm.nih.gov/nuccore/PV745399)
 - Genome:
 - Transcriptome:
 
@@ -67,14 +67,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- Occurrence-table label: `"Lignomodiolus"sp. R`. The page title follows the corresponding label in Supplementary Table 2; this label correspondence is not a taxonomic revision.
-- Sample ID `202521640329` occurs twice in Table 1 (entries 14 and 18) and in Supplementary Table 1. The original entries are retained by their table number; the duplicate ID does not establish independent samples.
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

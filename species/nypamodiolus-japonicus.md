@@ -12,15 +12,13 @@
 **Species / taxon:** *Nypamodiolus japonicus*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 420–460 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,9 +27,9 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
 
 ## Material availability
 
@@ -44,9 +42,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PQ777420](https://www.ncbi.nlm.nih.gov/nuccore/PQ777420)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115900](https://www.ncbi.nlm.nih.gov/nuccore/PX115900)
+- 28S: [PX121780](https://www.ncbi.nlm.nih.gov/nuccore/PX121780)
+- H3: [PX132888](https://www.ncbi.nlm.nih.gov/nuccore/PX132888)
+- HSP70: [PX124068](https://www.ncbi.nlm.nih.gov/nuccore/PX124068)
+- Mitogenome: [PV711362](https://www.ncbi.nlm.nih.gov/nuccore/PV711362)
 - Genome:
 - Transcriptome:
 
@@ -67,11 +67,5 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 ## Notes
 
 **Notes:**   
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
 
 <!-- Empty fields are retained for later editing. -->

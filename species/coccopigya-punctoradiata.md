@@ -14,11 +14,11 @@
 
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 250 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -27,9 +27,9 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 32 | 202604Bone01 | East China Sea | Whale bone | 26°40′N | 125°20′E | 250 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 202604Bone01 | East China Sea | Whale bone | 26°40′N | 125°20′E | 250 |
 
 ## Material availability
 
@@ -44,6 +44,8 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 - 16S:
 - 18S:
 - 28S:
+- H3:
+- HSP70:
 - Mitogenome:
 - Genome:
 - Transcriptome:
@@ -65,11 +67,5 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 ## Notes
 
 **Notes:**   
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
 
 <!-- Empty fields are retained for later editing. -->

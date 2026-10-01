@@ -12,15 +12,13 @@
 **Species / taxon:** *Terua pacifica*  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 250–460 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,11 +27,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 30 | 2025ESBone1 | East China Sea | Whale bone | 29°40′N | 127°50′E | 420–460 |
-| 31 | 2025ESSmallBone1 | East China Sea | Whale bone | 29°40′N | 127°50′E | 420–460 |
-| 32 | 202604Bone01 | East China Sea | Whale bone | 26°40′N | 125°20′E | 250 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025ESBone1 | East China Sea | Whale bone | 29°40′N | 127°50′E | 420–460 |
+| 2025ESSmallBone1 | East China Sea | Whale bone | 29°40′N | 127°50′E | 420–460 |
+| 202604Bone01 | East China Sea | Whale bone | 26°40′N | 125°20′E | 250 |
 
 ## Material availability
 
@@ -46,9 +44,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PZ326612](https://www.ncbi.nlm.nih.gov/nuccore/PZ326612)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115896](https://www.ncbi.nlm.nih.gov/nuccore/PX115896)
+- 28S: [PX121779](https://www.ncbi.nlm.nih.gov/nuccore/PX121779)
+- H3: [PX132883](https://www.ncbi.nlm.nih.gov/nuccore/PX132883)
+- HSP70: [PX124064](https://www.ncbi.nlm.nih.gov/nuccore/PX124064)
+- Mitogenome: [PV863431](https://www.ncbi.nlm.nih.gov/nuccore/PV863431)
 - Genome:
 - Transcriptome:
 
@@ -69,11 +69,5 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 ## Notes
 
 **Notes:**   
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
 
 <!-- Empty fields are retained for later editing. -->

@@ -12,15 +12,13 @@
 **Species / taxon:** *Coccocrater* sp. "lacking radial ribs"  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** South China Sea  
+**Recorded region:** South China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 300–500 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,10 +27,10 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2025PILPMIX | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
-| 10 | 2025PHI0506 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025PILPMIX | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
+| 2025PHI0506 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
 
 ## Material availability
 
@@ -47,6 +45,8 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 - 16S:
 - 18S:
 - 28S:
+- H3:
+- HSP70:
 - Mitogenome:
 - Genome:
 - Transcriptome:
@@ -67,12 +67,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->

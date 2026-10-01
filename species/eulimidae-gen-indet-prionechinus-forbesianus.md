@@ -12,15 +12,13 @@
 **Species / taxon:** Eulimidae gen. indet. "Prionechinus forbesianus"  
 **WoRMS AphiaID:**   
 
-**Classification source:** [ITIS](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=0072438) (classification checked 2026-10-01)
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 150–460 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,11 +27,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 13 | 2024DHSW02 | East China Sea | Wood | 27°20′N | 121°20′E | 150–200 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 27 | 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2024DHSW02 | East China Sea | Wood | 27°20′N | 121°20′E | 150–200 |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
 
 ## Material availability
 
@@ -48,6 +46,8 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 - 16S:
 - 18S:
 - 28S:
+- H3:
+- HSP70:
 - Mitogenome:
 - Genome:
 - Transcriptome:
@@ -68,12 +68,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-- The quoted label `Prionechinus forbesianus` is retained from the occurrence table; it is not used as the gastropod genus or species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
+- The gastropod genus and species are unresolved. The quoted name *Prionechinus forbesianus* refers to the associated echinoid.
 
 <!-- Empty fields are retained for later editing. -->

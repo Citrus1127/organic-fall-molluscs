@@ -12,18 +12,15 @@
 **Species / taxon:** *Idas pacificus*  
 **WoRMS AphiaID:** 1807815  
 
-**Taxonomic reference:** [WoRMS: Idas pacificus](https://marinespecies.org/aphia.php?p=taxdetails&id=1807815)  
-**Family reference:** [WoRMS: Modiolidae](https://marinespecies.org/aphia.php?p=taxdetails&id=866318)  
-
-**Classification source:** Supplementary Table 2
+[View the WoRMS record](https://marinespecies.org/aphia.php?p=taxdetails&id=1807815)
 
 ## Distribution
 
-**Region (this dataset):** South China Sea; East China Sea  
+**Recorded region:** South China Sea; East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 100–560 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -32,24 +29,24 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 | 2025PHI0409A | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
-| 4 | 2025PHI0409B | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
-| 5 | 2025PHI0515 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
-| 7 | 2025PHI0514 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
-| 8 | 2025PHI0501 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
-| 9 | 2025PHI0427 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
-| 10 | 2025PHI0506 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
-| 11 | 2025PHI0518 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
-| 12 | 20242085 | East China Sea | Wood | 28°50′N | 127°20′E | 480–560 |
-| 15 | 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
-| 16 | 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 17 | 2024195625031 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 20 | 2025ES520 | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
-| 21 | 2024DHSW01 | East China Sea | Wood | 27°40′N | 121°20′E | 200 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
-| 27 | 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2025PHI0409A | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
+| 2025PHI0409B | South China Sea | Wood | 10°40′N | 114°20′E | 300–500 |
+| 2025PHI0515 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
+| 2025PHI0514 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
+| 2025PHI0501 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
+| 2025PHI0427 | South China Sea | Wood | 9°50′N | 114°20′E | 300–500 |
+| 2025PHI0506 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
+| 2025PHI0518 | South China Sea | Wood | 10°20′N | 114°20′E | 300–500 |
+| 20242085 | East China Sea | Wood | 28°50′N | 127°20′E | 480–560 |
+| 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
+| 202419562503X | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2024195625031 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2025ES520 | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
+| 2024DHSW01 | East China Sea | Wood | 27°40′N | 121°20′E | 200 |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| 2023181601 | East China Sea | Wood | 30°50′N | 127°50′E | 350–420 |
 
 ## Material availability
 
@@ -62,9 +59,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [OR497041](https://www.ncbi.nlm.nih.gov/nuccore/OR497041)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115899](https://www.ncbi.nlm.nih.gov/nuccore/PX115899)
+- 28S: [PX121793](https://www.ncbi.nlm.nih.gov/nuccore/PX121793)
+- H3: [PX132887](https://www.ncbi.nlm.nih.gov/nuccore/PX132887)
+- HSP70: [PX124073](https://www.ncbi.nlm.nih.gov/nuccore/PX124073)
+- Mitogenome: [PQ541019](https://www.ncbi.nlm.nih.gov/nuccore/PQ541019)
 - Genome:
 - Transcriptome:
 
@@ -81,11 +80,5 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 ## Notes
 
 **Notes:**   
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
 
 <!-- Empty fields are retained for later editing. -->

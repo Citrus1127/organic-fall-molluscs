@@ -12,15 +12,13 @@
 **Species / taxon:** *Vulcanidas* sp. F  
 **WoRMS AphiaID:**   
 
-**Classification source:** Supplementary Table 2
-
 ## Distribution
 
-**Region (this dataset):** East China Sea  
+**Recorded region:** East China Sea  
 **Locality:** See the coordinates in the sampling records below.  
 **Sampling-depth envelope:** 150–460 m  
 
-Sea labels are inferred from the coordinates in Table 1. Depth values describe substrate sampling; the envelope summarizes the supplied ranges and does not imply occurrence at every intervening depth.
+Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Organic-fall habitat
 
@@ -29,10 +27,10 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Sampling records
 
-| Table 1 entry | Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 13 | 2024DHSW02 | East China Sea | Wood | 27°20′N | 121°20′E | 150–200 |
-| 24 | 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
+| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| --- | --- | --- | --- | --- | --- |
+| 2024DHSW02 | East China Sea | Wood | 27°20′N | 121°20′E | 150–200 |
+| 2024195601 | East China Sea | Wood | 29°40′N | 127°50′E | 420–460 |
 
 ## Material availability
 
@@ -45,9 +43,11 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 - COI: [PQ777422](https://www.ncbi.nlm.nih.gov/nuccore/PQ777422)
 - 16S:
-- 18S:
-- 28S:
-- Mitogenome:
+- 18S: [PX115909](https://www.ncbi.nlm.nih.gov/nuccore/PX115909)
+- 28S: [PX121783](https://www.ncbi.nlm.nih.gov/nuccore/PX121783)
+- H3: [PX132881](https://www.ncbi.nlm.nih.gov/nuccore/PX132881)
+- HSP70: [PX124077](https://www.ncbi.nlm.nih.gov/nuccore/PX124077)
+- Mitogenome: [PV739064](https://www.ncbi.nlm.nih.gov/nuccore/PV739064)
 - Genome:
 - Transcriptome:
 
@@ -67,12 +67,6 @@ Sea labels are inferred from the coordinates in Table 1. Depth values describe s
 
 ## Notes
 
-- The qualifier or informal label is retained from the supplied tables. This entry does not imply a formally described new species or a confirmed named-species identification.
-
-## Data sources
-
-- Supplementary Table 1: taxon labels and occurrence records.
-- Table 1: substrate type, sample identifiers, coordinates and sampling depths.
-- Supplementary Table 2: classification and representative COI GenBank accession.
+**Notes:**   
 
 <!-- Empty fields are retained for later editing. -->
