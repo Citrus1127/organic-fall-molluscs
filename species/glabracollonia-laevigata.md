@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/glabracollonia-laevigata/main.png -->
+![Glabracollonia-laevigata](../images/glabracollonia-laevigata/main.jpg)
 
 ## Taxonomy
 
