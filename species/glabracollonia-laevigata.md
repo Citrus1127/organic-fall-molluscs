@@ -47,9 +47,10 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 - 28S:
 - H3:
 - HSP70:
-- Mitogenome:
+- Mitogenome: [PV591969](https://www.ncbi.nlm.nih.gov/nuccore/PV591969)
 - Genome:
 - Transcriptome:
+- SRA: SRR35730924
 
 ## Images
 
