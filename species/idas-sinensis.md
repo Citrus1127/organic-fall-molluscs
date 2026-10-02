@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
- ![Idas sinensis](../images/idas-sinensis/main.tif)
+ ![Idas sinensis](../images/idas-sinensis/main.jpg)
 
 ## Taxonomy
 
