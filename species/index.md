@@ -34,7 +34,7 @@ Browse taxon pages for taxonomy, collection records, images and molecular resour
 | [Cocculinidae gen. et sp. indet. "rare"](cocculinidae-gen-et-sp-indet-rare.md) | Cocculinidae | South China Sea | Wood | COI |
 | [Cocculinidae sp.](cocculinidae-sp.md) | Cocculinidae | East China Sea | Wood |  |
 | [Colloniidae sp.](colloniidae-sp.md) | Colloniidae | South China Sea | Wood |  |
-| [*Glabracollonia laevigata*](glabracollonia-laevigata.md) | Colloniidae | East China Sea | Wood | COI |
+| [*Glabracollonia laevigata*](glabracollonia-laevigata.md) | Colloniidae | East China Sea | Wood | COI; Mitogenome |
 | [*Glabracollonia lunella*](glabracollonia-lunella.md) | Colloniidae | South China Sea; East China Sea | Wood | COI |
 | [*Thermocollonia alfi*](thermocollonia-alfi.md) | Colloniidae | South China Sea; East China Sea | Wood | COI |
 | [*Thermocollonia tosaensis*](thermocollonia-tosaensis.md) | Colloniidae | South China Sea; East China Sea | Wood | COI |
