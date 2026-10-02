@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/idas-iwaotakii/main.png -->
+![Idas iwaotakii](../images/idas-iwaotakii/main.jpg)
 
 ## Taxonomy
 
