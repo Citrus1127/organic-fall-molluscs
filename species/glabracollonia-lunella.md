@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/glabracollonia-lunella/main.png -->
+![Glabracollonia lunella](../images/glabracollonia lunella/main.jpg)
 
 ## Taxonomy
 
