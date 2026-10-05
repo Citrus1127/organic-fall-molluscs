@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/eulimidae-gen-indet-prionechinus-forbesianus/main.png -->
+![Eulimidae gen. indet. "Prionechinus forbesianus](<../images/eulimidae-prionechinus-forbesianus/main.png>)
 
 ## Taxonomy
 
