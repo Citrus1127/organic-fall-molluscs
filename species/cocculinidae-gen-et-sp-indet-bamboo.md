@@ -27,7 +27,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Sampling records
 
-| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| Substrate Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
 | --- | --- | --- | --- | --- | --- |
 | 202325101 | East China Sea | Bamboo | 26°10′N | 123°20′E | 400–500 |
 

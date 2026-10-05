@@ -27,7 +27,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Sampling records
 
-| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| Substrate Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
 | --- | --- | --- | --- | --- | --- |
 | 2025PHI0511 | South China Sea | Wood | 11°40′N | 116°40′E | 300–500 |
 | 202521640329 | East China Sea | Wood | 28°20′N | 126°50′E | 400–560 |

@@ -27,7 +27,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Sampling records
 
-| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| Substrate Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
 | --- | --- | --- | --- | --- | --- |
 | 202604Bone01 | East China Sea | Whale bone | 26°40′N | 125°20′E | 250 |
 

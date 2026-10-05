@@ -27,7 +27,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Sampling records
 
-| Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
+| Substrate Sample ID | Region | Substrate | Latitude | Longitude | Sampling depth (m) |
 | --- | --- | --- | --- | --- | --- |
 | 2024DHSW02 | East China Sea | Wood | 27°20′N | 121°20′E | 150–200 |
 | 20251224ES | East China Sea | Wood | 27°30′N | 122°10′E | 100–250 |
