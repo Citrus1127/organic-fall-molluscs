@@ -1,6 +1,6 @@
 # Organic-Fall Mollusc Resource
 
-Explore 47 molluscan taxa associated with organic falls in the East and South China seas, including provisional and unidentified taxa.
+Explore molluscan taxa associated with organic falls in the East China sea and South China sea, including provisional and unidentified taxa.
 
 Browse taxon pages for taxonomy, collection records, images and molecular resources.
 
