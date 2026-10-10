@@ -10,7 +10,7 @@
 **Family:** Modiolidae  
 **Genus:** *Idas*  
 **Species / taxon:** *Idas sinensis*  
-**WoRMS AphiaID:**   
+**WoRMS AphiaID:**   [1807814](https://marinespecies.org/aphia.php?p=taxdetails&id=1807814)
 
 ## Distribution
 
@@ -64,6 +64,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 ## Publications
 
 Wu, Q., Lin, Y.-T., Qiu, J.-W., Xu, M., & Xing, b. (2025). Two new species of Idas (Bivalvia: Mytilidae) from sunken wood in the East China Sea: description, phylogenetic position, symbionts, and mitochondrial genome. Zoosystematics and Evolution, 101(2), 761-778. https://doi.org/10.3897/zse.101.142007
+Wu, Q., Zhou, Q., Xiang, P., Chen, Y., Wang, C. W., & Xing, B. (2026). Mitogenomic diversity and phylogenetic placement of organic-fall mussels (Bathymodiolinae) from the Chinese seas. Deep Sea Research Part I: Oceanographic Research Papers, 231, 104740. https://doi.org/10.1016/j.dsr.2026.104740 
 
 ## Notes
 
