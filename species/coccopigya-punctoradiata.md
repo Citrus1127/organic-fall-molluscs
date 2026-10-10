@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/coccopigya-punctoradiata/main.png -->
+![Coccopigya punctoradiata](<../images/coccopigya-punctoradiata/main.jpg>)
 
 ## Taxonomy
 
