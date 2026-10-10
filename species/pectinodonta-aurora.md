@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/pectinodonta-aurora/main.png -->
+![Pectinodonta-aurora](<../images/pectinodonta-aurora/main.jpg>)
 
 ## Taxonomy
 
