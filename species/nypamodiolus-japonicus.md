@@ -62,7 +62,8 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Publications
 
-- Wu, Q., Zhou, Q., Xiang, P., Chen, Y., Wang, C. W., & Xing, B. (2026). Mitogenomic diversity and phylogenetic placement of organic-fall mussels (Bathymodiolinae) from the Chinese seas. Deep Sea Research Part I: Oceanographic Research Papers, 231, 104740. https://doi.org/10.1016/j.dsr.2026.104740 
+- Wu, Q., Zhou, Q., Xiang, P., Chen, Y., Wang, C. W., & Xing, B. (2026). Mitogenomic diversity and phylogenetic placement of organic-fall mussels (Bathymodiolinae) from the Chinese seas. Deep Sea Research Part I: Oceanographic Research Papers, 231, 104740. https://doi.org/10.1016/j.dsr.2026.104740
+- Wu, Q., Xing, B. P., Qiu, J.-W., Li, C., Lin, M., & Wang, C. G. (2026). Molluscan diversity and community composition of wood and whale bone falls in the East and South China seas (Unpublished). 
 
 ## Notes
 
