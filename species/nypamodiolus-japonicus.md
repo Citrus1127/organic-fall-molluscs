@@ -10,7 +10,7 @@
 **Family:** Modiolidae  
 **Genus:** *Nypamodiolus*  
 **Species / taxon:** *Nypamodiolus japonicus*  
-**WoRMS AphiaID:**   
+**WoRMS AphiaID:**   [1608984](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1608984)
 
 ## Distribution
 
