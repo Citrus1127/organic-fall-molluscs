@@ -75,7 +75,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Publications
 
-**Publications:**   
+Wu, Q., Lin, Y.-T., Qiu, J.-W., Xu, M., & Xing, b. (2025). Two new species of Idas (Bivalvia: Mytilidae) from sunken wood in the East China Sea: description, phylogenetic position, symbionts, and mitochondrial genome. Zoosystematics and Evolution, 101(2), 761-778. https://doi.org/10.3897/zse.101.142007
 
 ## Notes
 
