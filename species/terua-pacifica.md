@@ -10,7 +10,7 @@
 **Family:** Modiolidae  
 **Genus:** *Terua*  
 **Species / taxon:** *Terua pacifica*  
-**WoRMS AphiaID:**   
+**WoRMS AphiaID:**   [543974](https://marinespecies.org/aphia.php?p=taxdetails&id=543974)
 
 ## Distribution
 
