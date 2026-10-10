@@ -54,6 +54,7 @@ Browse taxon pages for taxonomy, collection records, images and molecular resour
 | [Lepetellida fam. indet. (cf. Osteopeltidae)](lepetellida-fam-indet-cf-osteopeltidae.md) |  | South China Sea | Wood | COI |
 | [Littorinimorpha fam. et gen. indet. sp. 1](littorinimorpha-fam-et-gen-indet-sp-1.md) |  | East China Sea | Wood |  |
 | [Trochida fam. et gen. indet. sp. 1](trochida-fam-et-gen-indet-sp-1.md) |  | East China Sea | Wood |  |
+| [skeneidae sp. 1](skeneidae-sp-1.md) |  | East China Sea | Wood |  |
 
 ## Polyplacophora
 
