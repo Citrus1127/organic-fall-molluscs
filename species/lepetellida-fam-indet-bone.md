@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/lepetellida-fam-indet-bone/main.png -->
+![Lepetellida fam. indet. "bone"] (../images/lepetellida-fam-indet-bone/main.jpg>)
 
 ## Taxonomy
 
