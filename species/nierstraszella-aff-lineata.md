@@ -67,7 +67,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Publications
 
-**Publications:**   
+- Wu, Q., Xing, B. P., Qiu, J.-W., Li, C., Lin, M., & Wang, C. G. (2026). Molluscan diversity and community composition of wood and whale bone falls in the East and South China seas (Unpublished). 
 
 ## Notes
 
