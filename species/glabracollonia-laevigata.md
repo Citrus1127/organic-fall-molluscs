@@ -64,7 +64,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Publications
 
-**Publications: Qiong Wu, Peng Xiang, Chun Guang Wang & Bing Peng Xing (2026) Characterization and phylogenetic analysis of the complete mitochondrial genome of Glabracollonia laevigata (Gastropoda: Trochida: Colloniidae) from East China Sea, Mitochondrial DNA Part B, 11:4, 536-540, DOI: 10.1080/23802359.2026.2642519**   
+- Qiong Wu, Peng Xiang, Chun Guang Wang & Bing Peng Xing (2026) Characterization and phylogenetic analysis of the complete mitochondrial genome of Glabracollonia laevigata (Gastropoda: Trochida: Colloniidae) from East China Sea, Mitochondrial DNA Part B, 11:4, 536-540, DOI: 10.1080/23802359.2026.2642519
 
 ## Notes
 
