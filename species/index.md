@@ -4,7 +4,7 @@ Explore molluscan taxa associated with organic falls in the East China sea and S
 
 Browse taxon pages for taxonomy, collection records, images and molecular resources.
 
-## Bivalvia (15 taxa)
+## Bivalvia
 
 | Taxon | Family | Recorded region | Substrate | Molecular resources |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Browse taxon pages for taxonomy, collection records, images and molecular resour
 | [*Vulcanidas* sp. F](vulcanidas-sp-f.md) | Modiolidae | East China Sea | Wood | COI; 18S; 28S; H3; HSP70; Mitogenome |
 | [Thyasiridae gen. et sp. indet. 1](thyasiridae-gen-et-sp-indet-1.md) | Thyasiridae | South China Sea | Wood | COI |
 
-## Gastropoda (26 taxa)
+## Gastropoda
 
 | Taxon | Family | Recorded region | Substrate | Molecular resources |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Browse taxon pages for taxonomy, collection records, images and molecular resour
 | [Littorinimorpha fam. et gen. indet. sp. 1](littorinimorpha-fam-et-gen-indet-sp-1.md) |  | East China Sea | Wood |  |
 | [Trochida fam. et gen. indet. sp. 1](trochida-fam-et-gen-indet-sp-1.md) |  | East China Sea | Wood |  |
 
-## Polyplacophora (6 taxa)
+## Polyplacophora
 
 | Taxon | Family | Recorded region | Substrate | Molecular resources |
 | --- | --- | --- | --- | --- |
