@@ -10,7 +10,7 @@
 **Family:** Pectinodontidae  
 **Genus:** *Pectinodonta*  
 **Species / taxon:** *Pectinodonta aurora*  
-**WoRMS AphiaID:**   
+**WoRMS AphiaID:**   [887241](https://www.marinespecies.org/aphia.php?p=taxdetails&id=887241)
 
 ## Distribution
 
