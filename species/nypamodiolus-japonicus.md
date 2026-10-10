@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/nypamodiolus-japonicus/main.png -->
+![nypamodiolus-japonicus](<../images/nypamodiolus-japonicus/main.jpg>)
 
 ## Taxonomy
 
@@ -62,7 +62,7 @@ Depth values describe substrate recovery. The range summarizes recorded samples.
 
 ## Publications
 
-**Publications:**   
+Wu, Q., Zhou, Q., Xiang, P., Chen, Y., Wang, C. W., & Xing, B. (2026). Mitogenomic diversity and phylogenetic placement of organic-fall mussels (Bathymodiolinae) from the Chinese seas. Deep Sea Research Part I: Oceanographic Research Papers, 231, 104740. https://doi.org/10.1016/j.dsr.2026.104740 
 
 ## Notes
 
