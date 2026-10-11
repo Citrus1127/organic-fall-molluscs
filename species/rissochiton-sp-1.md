@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/rissochiton-sp-1/main.png -->
+![Rissochiton sp. 1](<../images/rissochiton-sp-1/main.jpg>)
 
 ## Taxonomy
 
