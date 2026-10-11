@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/bathymodiolinae-gen-et-sp-indet-hirsutus/main.png -->
+![Bathymodiolinae gen. et sp. indet. "hirsutus"](<../images/bathymodiolinae-gen-et-sp-indet-hirsutus/main.jpg>)
 
 ## Taxonomy
 
