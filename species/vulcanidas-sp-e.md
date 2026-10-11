@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/vulcanidas-sp-e/main.png -->
+![Vulcanidas sp E](<../images/vulcanidas-sp-e/main.jpg>)
 
 ## Taxonomy
 
