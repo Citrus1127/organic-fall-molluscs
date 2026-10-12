@@ -10,7 +10,7 @@
 **Family:** Colloniidae  
 **Genus:** *Glabracollonia*  
 **Species / taxon:** *Glabracollonia lunella*  
-**WoRMS AphiaID:**   
+**WoRMS AphiaID:**   [1643989](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1643989)
 
 ## Distribution
 
