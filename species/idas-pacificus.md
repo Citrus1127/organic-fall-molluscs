@@ -10,7 +10,7 @@
 **Family:** Modiolidae  
 **Genus:** *Idas*  
 **Species / taxon:** *Idas pacificus*  
-**WoRMS AphiaID:** 1807815  
+**WoRMS AphiaID:** [1807815](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1807815)  
 
 [View the WoRMS record](https://marinespecies.org/aphia.php?p=taxdetails&id=1807815)
 
