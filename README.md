@@ -8,7 +8,11 @@
 
 ## What are organic falls?
 
-Organic falls form when wood, whale remains or other organic material sinks to the seafloor. They provide concentrated sources of food and habitat for benthic organisms, including many specialized molluscs. As the material decomposes, microbial activity can generate sulfide-rich microhabitats that support chemosynthetic communities.[^background]
+Large organic falls form when wood, whale remains or other substantial organic material reaches the seafloor. They provide localized sources of food and shelter for benthic communities, including many specialized molluscs. As microorganisms decompose the substrate, oxygen depletion and sulfate reduction can create sulfide-rich microhabitats that support chemosynthetic production. The resulting habitats change as the organic material is consumed and degraded.[^background]
+
+Molluscs contribute to these communities in several ways. Wood-boring bivalves break down and fragment wood, modifying its structure and creating resources for other organisms. Other molluscs graze microbial films, consume detritus or animal material, or prey on associated fauna. Bathymodioline mussels occur on substrate surfaces and within spaces in the wood, and some species obtain part of their nutrition through associations with chemosynthetic bacteria. These different ways of using the substrate contribute to the diversity of organic-fall assemblages.
+
+Organic falls are scattered, temporary habitats whose communities vary with substrate type and size, depth, decomposition stage and colonization history. Some of their inhabitants are related to taxa found at hydrothermal vents and cold seeps, making organic falls important for investigating dispersal and evolutionary connections among reducing habitats. Records from the Chinese seas remain geographically uneven, and many lineages require further taxonomic study. Accessible occurrence records, photographs and molecular resources provide a basis for documenting this diversity and comparing communities across substrates and regions.
 
 ## Substrate gallery
 
@@ -25,6 +29,21 @@ Examples of organic-fall substrates and their associated fauna.
 </p>
 
 *Molluscs associated with sunken wood, shown at different scales.*
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>Whale-bone habitat</strong></td>
+    <td width="50%" align="center"><strong>Mussels inside sunken wood</strong></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="substrate/substrate3.jpg" alt="Whale-bone substrate with associated fauna" width="100%"></td>
+    <td width="50%" valign="top"><img src="substrate/substrate4.jpg" alt="Cut section of sunken wood revealing bathymodioline mussels within the substrate" width="100%"></td>
+  </tr>
+  <tr>
+    <td valign="top">Whale-bone substrate and its associated fauna.</td>
+    <td valign="top">A cut section of sunken wood revealing bathymodioline mussels within the substrate.</td>
+  </tr>
+</table>
 
 ## About the database
 
