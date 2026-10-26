@@ -39,7 +39,7 @@
 ## Molecular resources
 
 - COI:
-- 16S: QB229864
+- 16S: [QB229864](https://www.ncbi.nlm.nih.gov/nuccore/QB229864)
 - 18S:
 - 28S:
 - H3:
