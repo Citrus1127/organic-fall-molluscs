@@ -39,7 +39,7 @@
 ## Molecular resources
 
 - COI:
-- 16S: 
+- 16S: QB229864
 - 18S:
 - 28S:
 - H3:
