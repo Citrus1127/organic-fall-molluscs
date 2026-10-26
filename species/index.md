@@ -43,6 +43,7 @@ Browse taxon pages for taxonomy, collection records, images and molecular resour
 | [*Calagrassor aldermenensis*](calagrassor-aldermenensis.md) | Eosiphonidae | East China Sea | Wood | COI |
 | [*Calagrassor hagai*](calagrassor-hagai.md) | Eosiphonidae | South China Sea; East China Sea | Wood | COI |
 | [*Calagrassor* sp.](calagrassor-sp.md) | Eosiphonidae | South China Sea; East China Sea | Wood |  |
+| [*Calagrassor* sp. lsw](calagrassor-sp-lsw.md) | Eosiphonidae | East China Sea | Wood | 16s |
 | [Eulimidae gen. indet. "Prionechinus forbesianus"](eulimidae-gen-indet-prionechinus-forbesianus.md) | Eulimidae | East China Sea | Wood |  |
 | [Iravadiidae cf. *Nozeba lignicola*](iravadiidae-cf-nozeba-lignicola.md) | Iravadiidae | South China Sea | Wood |  |
 | [*Leptogyropsis inflata*](leptogyropsis-inflata.md) | Melanodrymiidae | South China Sea; East China Sea | Wood |  |
