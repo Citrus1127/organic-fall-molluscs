@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/calagrassor-sp-lsw/main.png -->
+![calagrassor sp lsw](<../images/calagrassor-sp-lsw/main.jpg>)
 
 ## Taxonomy
 
