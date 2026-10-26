@@ -39,7 +39,7 @@
 ## Molecular resources
 
 - COI:
-- 16S: Used to distinguish this taxon from *Calagrassor aldermenensis* and *Calagrassor hagai*; accession number not provided.
+- 16S: 
 - 18S:
 - 28S:
 - H3:
