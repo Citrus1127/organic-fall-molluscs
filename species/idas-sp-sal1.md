@@ -2,7 +2,8 @@
 
 [Back to the taxon index](index.md)
 
-*Idas* sp. SAL1: ../images/idas-sp-sal/main.jpg
+![Idas sp. SAL1](../images/idas-sp-sal/main.jpg)
+
 
 ## Taxonomy
 
