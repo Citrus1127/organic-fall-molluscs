@@ -2,7 +2,7 @@
 
 [Back to the taxon index](index.md)
 
-<!-- Representative image: ../images/idas-sp-sal1/main.png -->
+*Idas* sp. SAL1: ../images/idas-sp-sal/main.jpg
 
 ## Taxonomy
 
